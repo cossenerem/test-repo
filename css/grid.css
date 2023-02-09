@@ -1,0 +1,18 @@
+/* Helper or Utility Classes */
+.grid {
+    display:grid;
+}
+
+/* Grid Column Modifiers
+------------------------------ */
+.has-2-col {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.has-3-col {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.span-2-col {
+    grid-column: span 2;
+}
