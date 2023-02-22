@@ -6,3 +6,12 @@ main {
     text-align: center;
 }
 
+#left {
+    text-align: left;
+    margin: 25px 25px 25px 25px;
+}
+
+#lefttext {
+    text-align: left;
+    margin: 25px 25px 25px 25px;
+}
